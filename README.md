@@ -14,7 +14,7 @@
 ---
 
 ## Información de Contacto
-- **Correo electrónico**: (lopezvegaloen@gmail.com)
+- **Correo electrónico**: (lopezvegaleon@gmail.com)
 - **Teléfono**: +52 2761141400
 
 ---
