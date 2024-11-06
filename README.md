@@ -2,7 +2,7 @@
 <h1 align="center">Bienvenido, soy Leonardo López Vega este es mi perfil</h1>
 <h2 align="center">Soy modelador, programador y editor de imagenes</h2>
 <h3 align="center">Universidad Tecnológica de Tlaxcala</h3>
-<p align="center"> <img src="https://github.com/Bisonte555/Bisonte555/blob/main/banner1.2.png"></p>
+<p align="center"> <img src="https://github.com/Bisonte555/Bisonte555/blob/main/Tarjeta1.2.2.jpg"></p>
 
 
 <div style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
