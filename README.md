@@ -16,10 +16,10 @@ Soy un joven alegre, comprometido con lo que hago. Me considero una persona enfo
 ---
 
 ## Habilidades
-- **Lenguajes de programación**: HTML, CSS, PHP, Dart
+- **Lenguajes de programación**: HTML, CSS, PHP, Dart, R, JavaScript 
 - **Frameworks**: Flutter
 - **Bases de datos**: SQL, NoSQL
-- **Herramientas y tecnologías**: Visual Studio, XAMPP
+- **Herramientas**: Visual Studio, XAMPP, Photoshop, Blender,Canva, RStudio, PowerBI, Unity, 
 
 ---
 
