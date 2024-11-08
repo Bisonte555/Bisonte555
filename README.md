@@ -6,7 +6,7 @@
 
 <div style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
 
-# Leonardo López Vega
+# Leonardo Lopez Vega
 
 **Desarrollador Web | Modelador 3D | Community Manager**
 
