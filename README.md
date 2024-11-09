@@ -42,13 +42,17 @@ Soy un joven alegre, comprometido con lo que hago. Me considero una persona enfo
 ---
 
 ## Proyectos Destacados
-- **[Pagina Web sobre negocio de Lavanderia ](https://github.com/tuusuario/proyecto1)**  
+- **[Proyecto: Aplicación sobre "El Plato del Buen Comer"](https://github.com/tuusuario/proyecto1)**  
   _Descripción breve del proyecto, destacando los logros o la tecnología utilizada._
 
-- **[Aplicación móvil sobre el "Plato del buen comer"](https://github.com/tuusuario/proyecto2)**  
+- **[Proyecto: Videojuego "The GAP"](https://github.com/tuusuario/proyecto2)**  
   _Descripción breve del proyecto, destacando la funcionalidad y el impacto._
 
-- **[Modelado 3D con Temática de terror](https://github.com/tuusuario/proyecto2)**  
+- **[Modelados 3D personales](https://github.com/tuusuario/proyecto2)**  
+  _Descripción breve del proyecto, destacando la funcionalidad y el impacto._
+
+- **[Aumento de seguidores en pagina de Facebook, como Community Manager, enfocado en la empresa "AGAPSA Acabados y Prefabricados Gálvez  
+S.A de C.V "](https://github.com/tuusuario/proyecto2)**  
   _Descripción breve del proyecto, destacando la funcionalidad y el impacto._
 
 ---
