@@ -7,6 +7,7 @@
 <div style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
 
 # Leonardo López Vega
+<p align="center"> <img src="https://github.com/Bisonte555/Bisonte555/blob/main/MyPhoto.png"></p>
 
 **Desarrollador Web | Modelador 3D | Community Manager | Analista de datos**
 
