@@ -47,10 +47,10 @@ Soy un joven alegre, comprometido con lo que hago. Me considero una persona enfo
 - **[Proyecto: Aplicación sobre "El Plato del Buen Comer"](https://drive.google.com/file/d/1BHmBXEzxOcOq2EmgYQN2LXJY6cMNmo_T/view?usp=sharing)**  
   _Este proyecto se realizó en el lenguaje de programación "Dart", apoyado en el framework Flutter. La aplicación se inspira en presentar todos los alimentos contenidos en el Plato del Buen Comer, así mismo muestra información nutricional y los beneficios de los mismos._
 
-- **[Proyecto: Aplicación movil sobre La muestra de los estados de Mexico con Realidad Aumentada]([https://github.com/tuusuario/proyecto2](https://drive.google.com/file/d/1lHWQffbJ635yreIg7oEx6D4Y3WIjBDmW/view?usp=sharing))**  
+- **[Proyecto: Aplicación movil sobre La muestra de los estados de Mexico con Realidad Aumentada (https://drive.google.com/file/d/1lHWQffbJ635yreIg7oEx6D4Y3WIjBDmW/view?usp=sharing)**  
   _Este proyecto fue desarrollado en Unity, el reconocido motor de videojuegos, e incluye modelos 3D representativos de diversos lugares. Cada modelo se muestra en tiempo real junto a un mapa interactivo de la República Mexicana (TARGET), que permite visualizar los estados y obtener información relevante de cada uno._
 
-- **[Proyecto: Videojuego "The GAP"]([https://github.com/tuusuario/proyecto2](https://drive.google.com/file/d/1xwwqgGyIOt4T9BSKbs4dxb-n3_3-i03o/view?usp=sharing))**  
+- **[Proyecto: Videojuego "The GAP"](https://drive.google.com/file/d/1xwwqgGyIOt4T9BSKbs4dxb-n3_3-i03o/view?usp=sharing)**  
   _Desarrollé un videojuego junto a mis compañeros de clase, en el que se modeló, programó y configuró el entorno del juego. El videojuego trata sobre una infección que se propaga en la Universidad Tecnológica de Tlaxcala, donde el objetivo es escapar de las instalaciones sano y salvo. Fue creado con el propósito de que los jugadores puedan conocer las instalaciones de la universidad de una manera más divertida y didáctica._
 
 - **[Aumento de seguidores en pagina de Facebook, como Community Manager, enfocado en la empresa "AGAPSA Acabados y Prefabricados Gálvez  
