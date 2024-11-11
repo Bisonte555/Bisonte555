@@ -56,10 +56,6 @@ Me apasionan el arte y la tecnología, y disfruto descubriendo cosas nuevas. Anh
 - **[Proyecto: Videojuego "The GAP"](https://drive.google.com/file/d/1xwwqgGyIOt4T9BSKbs4dxb-n3_3-i03o/view?usp=sharing)**  
   _Desarrollé un videojuego junto a mis compañeros de clase, en el que se modeló, programó y configuró el entorno del juego. El videojuego trata sobre una infección que se propaga en la Universidad Tecnológica de Tlaxcala, donde el objetivo es escapar de las instalaciones sano y salvo. Fue creado con el propósito de que los jugadores puedan conocer las instalaciones de la universidad de una manera más divertida y didáctica._
 
-- **[Aumento de seguidores en pagina de Facebook, como Community Manager, enfocado en la empresa "AGAPSA Acabados y Prefabricados Gálvez  
-S.A de C.V "](https://github.com/tuusuario/proyecto2)**  
-  _Descripción breve del proyecto, destacando la funcionalidad y el impacto._
-
 ---
 
 ## Descargas
