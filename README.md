@@ -43,8 +43,8 @@ Soy un joven alegre, comprometido con lo que hago. Me considero una persona enfo
 ---
 
 ## Proyectos Destacados
-- **[Proyecto: Aplicación sobre "El Plato del Buen Comer"](https://github.com/tuusuario/proyecto1)**  
-  _Descripción breve del proyecto, destacando los logros o la tecnología utilizada._
+- **[Proyecto: Aplicación sobre "El Plato del Buen Comer"](https://drive.google.com/file/d/1BHmBXEzxOcOq2EmgYQN2LXJY6cMNmo_T/view?usp=sharing)**  
+  _Este proyecto se realizó en el lenguaje de programación "Dart", apoyado en el framework Flutter. La aplicación se inspira en presentar todos los alimentos contenidos en el Plato del Buen Comer, así mismo muestra información nutricional y los beneficios de los mismos._
 
 - **[Proyecto: Videojuego "The GAP"](https://github.com/tuusuario/proyecto2)**  
   _Descripción breve del proyecto, destacando la funcionalidad y el impacto._
