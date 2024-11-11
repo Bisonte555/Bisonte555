@@ -63,6 +63,11 @@ S.A de C.V "](https://github.com/tuusuario/proyecto2)**
 - [Mi curriculum](cv.pdf)
 
 ---
+
+## Idiomas
+- **Ingles A2**
+
+---
 ## Información de Contacto
 - **Correo electrónico**: (lopezvegaleon@gmail.com)
 - **Teléfono**: +52 2761141400
