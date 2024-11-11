@@ -25,18 +25,19 @@ Soy un joven alegre, comprometido con lo que hago. Me considero una persona enfo
 
 ## Experiencia Profesional
 
-| Puesto                                  | Empresa                   | Periodo             |
-|----------------------------------------|---------------------------|---------------------|
-| **Desarrollador y documentador de página web**                  | Universidad Tecnológica de Tlaxcala| 2020 - |
-| _Desarrolle una pagina web encargada de poder registrar pedidos e inicio de sesiones así como creación de usuarios para un Negocio de Lavanderia en Huamantla Tlaxcala._ | | |
-| **Modelador 3D,Animador y desarrollador de "Aplicación de Realidad Aumentada para fomentar el interés en la Geografía".**              | Universidad Tecnológica de Tlaxcala               | 2021          |
-| _Desarrollo de Aplicación de Realidad Aumentada enfocada en la materia de Geografía sobre los estados de México y sus atractivos turísticos mas destacables._ | | |
-|**Modelador 3D y Animador de "Aplicación para Visores Oculus sobre Monumento al Toro de Huamantla"**. |Universidad Tecnológica del Estado de Tlaxcala |2023 |
-|Creación de app estructurada para Visores Oculus mostrando en Realidad Visual.| | |
-|**Desarrollador y modelador 3D de aplicación mòvil sobre el "Plato del Buen Comer"**|Universidad Tecnológica de Tlaxcala|2022|
-|Desarrolé una aplicacion informativa e intereactiva sobre los elemntos del "Plato del buen comer", mostrando beneficios de cada elemento en el cuerpo, asi como medidas de consumo y modelados en 3D interactivos en tiempo real"|||
-|**Puesto de Community Manager en empresa de Acabados y Prefabricados**|AGAPSA Acabados y Prefabricados Gálvez S.A de C.V| 2023 | 
-|Lleve a cabo el rol de Community Manager en la empresa de "AGAPSA Acabados y Prefabricados Gálvez S.A de C.V" en Cuapiaxtla Tlaxcala, llevando el control de las estadísticas de redes sociales y creando contenido basado en una estrategia estalecida.|||
+| **Puesto**                                                              | **Empresa**                                    | **Periodo**         |
+|------------------------------------------------------------------------|-----------------------------------------------|---------------------|
+| **Desarrollador y documentador de página web**                          | Universidad Tecnológica de Tlaxcala           | 2020 - presente     |
+| _Desarrollé una página web encargada de registrar pedidos, inicio de sesión y creación de usuarios para un negocio de lavandería en Huamantla, Tlaxcala._ | | |
+| **Modelador 3D, Animador y Desarrollador de "Aplicación de Realidad Aumentada para fomentar el interés en la Geografía"** | Universidad Tecnológica de Tlaxcala           | 2021                |
+| _Desarrollo de una aplicación de realidad aumentada enfocada en la materia de Geografía, sobre los estados de México y sus atractivos turísticos más destacables._ | | |
+| **Modelador 3D y Animador de "Aplicación para Visores Oculus sobre el Monumento al Toro de Huamantla"** | Universidad Tecnológica del Estado de Tlaxcala | 2023                |
+| _Creación de una aplicación estructurada para visores Oculus, mostrando en realidad virtual el Monumento al Toro de Huamantla._ | | |
+| **Desarrollador y Modelador 3D de aplicación móvil sobre el "Plato del Buen Comer"** | Universidad Tecnológica de Tlaxcala           | 2022                |
+| _Desarrollé una aplicación informativa e interactiva sobre los elementos del "Plato del Buen Comer", mostrando los beneficios de cada elemento en el cuerpo, así como medidas de consumo y modelados 3D interactivos en tiempo real._ | | |
+| **Puesto de Community Manager en empresa de Acabados y Prefabricados**   | AGAPSA Acabados y Prefabricados Gálvez S.A. de C.V. | 2023                |
+| _Desempeñé el rol de Community Manager en AGAPSA Acabados y Prefabricados Gálvez S.A. de C.V., en Cuapiaxtla, Tlaxcala, llevando el control de las estadísticas de redes sociales y creando contenido basado en una estrategia establecida._ | | |
+
 
 
 
