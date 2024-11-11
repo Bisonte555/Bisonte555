@@ -63,7 +63,7 @@ S.A de C.V "](https://github.com/tuusuario/proyecto2)**
 ---
 
 ## Descargas
-- [Mi curriculum](Curriculum_LLV.pdf)
+- [Mi curriculum](Curriculum.pdf)
 
 ---
 
