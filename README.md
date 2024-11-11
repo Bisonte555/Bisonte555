@@ -13,7 +13,10 @@
 
 ---
 <h1><strong>Quien soy</strong></h1>
-Soy un joven alegre, comprometido con lo que hago. Me considero una persona enfocada y con una capacidad de aprendizaje rápido, siempre buscando oportunidades para mejorar y crecer. Mi actitud optimista me permite tratar de resolver problemas y desafíos. Me gusta entender a fondo lo que hago, por lo que suelo preguntar detalles y profundizar en los temas hasta asegurarme de tener una comprensión clara evitando a toda costa los errores a causa de las dudas. Los valores que me han formado como persona me han impulsan a ser responsable, proactivo y a trabajar siempre con honestidad y dedicación. Mi enfoque está en la mejora constante, buscando siempre aportar de forma positiva y apoyar a quien lo necesita si esta en mis posibilidades. Me gusta el arte, practicar deporte, la tecnología, apasionado por descubrir cosas nuevas, me gustaria ser bueno en lo que hago. No me agradan las faltas de respeto y la desorganización o falta de compromiso.
+Soy un joven apasionado y comprometido con lo que hago. Me considero una persona enfocada, con una capacidad de aprendizaje rápido, siempre buscando oportunidades para mejorar y aplicar lo que he aprendido. Mi actitud optimista me permite abordar problemas y desafíos de manera constructiva.
+Me gusta entender a fondo lo que hago, por lo que suelo indagar en los detalles y profundizar hasta asegurarme de tener una comprensión clara, evitando los errores causados por dudas. Los valores que me han formado como persona me impulsan a ser responsable, proactivo y a trabajar siempre con honestidad y dedicación.
+Mi enfoque está en la mejora continua, buscando siempre aportar de manera positiva a los equipos con los que colaboro, así como optimizar procesos para obtener resultados más eficientes. También valoro el apoyo mutuo, por lo que trato de apoyar a quienes lo necesiten dentro de mis posibilidades.
+Me apasionan el arte y la tecnología, y disfruto descubriendo cosas nuevas. Anhelo ser excelente en lo que hago y poder demostrar mis habilidades y destrezas.
 
 ## Habilidades
 - **Lenguajes de programación**: HTML, CSS, PHP, Dart, R, JavaScript 
@@ -60,7 +63,7 @@ S.A de C.V "](https://github.com/tuusuario/proyecto2)**
 ---
 
 ## Descargas
-- [Mi curriculum](cv.pdf)
+- [Mi curriculum](Curriculum_LLV.pdf)
 
 ---
 
