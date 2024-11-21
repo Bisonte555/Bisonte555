@@ -48,9 +48,9 @@ Me apasionan el arte y la tecnología, y disfruto descubriendo cosas nuevas. Anh
 
 ## Proyectos Destacados
 - **[Proyecto: Aplicación sobre "El Plato del Buen Comer"](https://drive.google.com/file/d/1BHmBXEzxOcOq2EmgYQN2LXJY6cMNmo_T/view?usp=sharing)**  
-  _Este proyecto se realizó en el lenguaje de programación "Dart", apoyado en el framework Flutter. La aplicación se inspira en presentar todos los alimentos contenidos en el Plato del Buen Comer, así mismo muestra información nutricional y los beneficios de los mismos._
+  _Este proyecto se realizó en el lenguaje de programación Dart, apoyado en el framework Flutter. La aplicación tiene como objetivo presentar todos los alimentos contenidos en el Plato del Buen Comer; asimismo, muestra información nutricional y los beneficios de los mismos._
 
-- **[Proyecto: Aplicación movil sobre La muestra de los estados de Mexico con Realidad Aumentada](https://drive.google.com/file/d/1lHWQffbJ635yreIg7oEx6D4Y3WIjBDmW/view?usp=sharing)**  
+- **[Proyecto: Aplicación móvil sobre la muestra de los estados de México con Realidad Aumentada](https://drive.google.com/file/d/1lHWQffbJ635yreIg7oEx6D4Y3WIjBDmW/view?usp=sharing)**  
   _Este proyecto fue desarrollado en Unity, el reconocido motor de videojuegos, e incluye modelos 3D representativos de diversos lugares. Cada modelo se muestra en tiempo real junto a un mapa interactivo de la República Mexicana (TARGET), que permite visualizar los estados y obtener información relevante de cada uno._
 
 - **[Proyecto: Videojuego "The GAP"](https://drive.google.com/file/d/1xwwqgGyIOt4T9BSKbs4dxb-n3_3-i03o/view?usp=sharing)**  
